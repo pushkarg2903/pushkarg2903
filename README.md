@@ -3,16 +3,22 @@
 <!-- Typing Animation - auto updates -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Pushkar+Garg+%2F+pushkarg2903;Data+Engineer+%7C+Cyber+Enthusiast+%7C+Builder)](https://git.io/typing-svg)
 
-```
-> whoami
+<div align="center">
 
-  NAME       ::  Pushkar Garg
-  ROLE       ::  CS Undergrad · Cybersecurity Specialization
-  SCHOOL     ::  Chitkara University, Punjab
-  CGPA       ::  8.64 / 10.0
-  DOMAIN     ::  Data Engineering · ML · Network Security
-  STATUS     ::  [████████████░░] Open to Opportunities
 ```
+╔══════════════════════════════════════════════════════════╗
+║  > whoami                                                ║
+║                                                          ║
+║  NAME    ::  Pushkar Garg                                ║
+║  ROLE    ::  CS Undergrad · Cybersecurity Specialization ║
+║  SCHOOL  ::  Chitkara University, Punjab                 ║
+║  CGPA    ::  8.64 / 10.0                                 ║
+║  DOMAIN  ::  Data Engineering · ML · Network Security   ║
+║  STATUS  ::  [████████████░░] Open to Opportunities      ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=pushkarg2903&color=00ff41&style=flat-square&label=PROFILE+VIEWS)](https://github.com/pushkarg2903)
 &nbsp;
