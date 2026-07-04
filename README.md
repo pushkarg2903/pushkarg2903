@@ -135,17 +135,16 @@
 
 ---
 
+
 ```
 // 04 · GITHUB_STATS
 ```
 
 <div align="center">
 
-![Pushkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushkarg2903&show_icons=true&bg_color=0d1117&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=ffffff&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarg2903&layout=compact&bg_color=0d1117&border_color=00FF41&title_color=00FF41&text_color=ffffff)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=pushkarg2903&theme=dark&background=0D1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF41&sideLabels=00FF41&dates=ffffff)](https://git.io/streak-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pushkarg2903&bg_color=0d1117&color=00FF41&line=00FF41&point=00FF41&area=true&hide_border=false)](https://github.com/pushkarg2903)
 
 </div>
 
@@ -161,9 +160,14 @@
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/pushkarg2903)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:pushkarg423@gmail.com)
 
+</div>
+
+<div align="center">
+
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-               pushkarg2903
+         Pushkar Garg · pushkarg2903
+         B.Tech CSE · Cybersecurity · 2027
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
