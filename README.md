@@ -5,18 +5,7 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  > whoami                                                ║
-║                                                          ║
-║  NAME    ::  Pushkar Garg                                ║
-║  ROLE    ::  CS Undergrad · Cybersecurity Specialization ║
-║  SCHOOL  ::  Chitkara University, Punjab                 ║
-║  CGPA    ::  8.64 / 10.0                                 ║
-║  DOMAIN  ::  Data Engineering · ML · Network Security   ║
-║  STATUS  ::  [████████████░░] Open to Opportunities      ║
-╚══════════════════════════════════════════════════════════╝
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=580&height=200&lines=%3E+whoami;NAME++++%3A%3A+Pushkar+Garg;ROLE++++%3A%3A+CS+Undergrad+·+Cybersecurity+Specialization;SCHOOL++%3A%3A+Chitkara+University%2C+Punjab;CGPA++++%3A%3A+8.64+%2F+10.0;DOMAIN++%3A%3A+Data+Engineering+·+ML+·+Network+Security;STATUS++%3A%3A+%5B████████████░░%5D+Open+to+Opportunities)](https://git.io/typing-svg)
 
 </div>
 
