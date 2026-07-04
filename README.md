@@ -126,12 +126,10 @@
 
 <div align="center">
 
-<!-- Auto-updating GitHub stats -->
-![Pushkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushkarg2903&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=ffffff&hide_border=false)
+![Pushkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushkarg2903&show_icons=true&bg_color=0d1117&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=ffffff&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarg2903&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00FF41&title_color=00FF41&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarg2903&layout=compact&bg_color=0d1117&border_color=00FF41&title_color=00FF41&text_color=ffffff)
 
-<!-- Auto-updating streak stats -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=pushkarg2903&theme=dark&background=0D1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF41&sideLabels=00FF41&dates=ffffff)](https://git.io/streak-stats)
 
 </div>
