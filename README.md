@@ -33,7 +33,6 @@ role:        Final-Year CSE Undergrad, Cybersecurity Specialization
 institution: Chitkara University, Punjab
 cgpa:        8.81 / 10.0
 targeting:   Data Engineer · Data Analyst
-also_eyeing: MS Abroad — Germany / Ireland / Netherlands
 principle:   "no fabricated projects, no fabricated credentials —
               only honest reframing of real work."
 ```
