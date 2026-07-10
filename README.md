@@ -1,144 +1,225 @@
 <div align="center">
-
-<!-- Typing Animation - auto updates -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Pushkar+Garg+%2F+pushkarg2903;Data+Enthusiast+%7C+Cyber+Enthusiast+%7C+Builder)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/pushkarg2903/pushkarg2903/main/banner.svg" width="100%" alt="Pushkar Garg" />
+</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=580&height=200&lines=%3E+whoami;NAME++++%3A%3A+Pushkar+Garg;ROLE++++%3A%3A+CS+Undergrad+·+Cybersecurity+Specialization;SCHOOL++%3A%3A+Chitkara+University%2C+Punjab;CGPA++++%3A%3A+8.81+%2F+10.0;DOMAIN++%3A%3A+Data+Engineering+·+ML+·+Network+Security;STATUS++%3A%3A+%5B████████████░░%5D+Open+to+Opportunities)](https://git.io/typing-svg)
+![Profile Views](https://komarev.com/ghpvc/?username=pushkarg2903&color=00ff41&style=flat-square&label=CONNECTIONS)
+![Status](https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-00ff41?style=flat-square&labelColor=0d1117)
+![Uptime](https://img.shields.io/badge/UPTIME-8.81_CGPA-00ff41?style=flat-square&labelColor=0d1117)
 
 </div>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=pushkarg2903&color=00ff41&style=flat-square&label=PROFILE+VIEWS)](https://github.com/pushkarg2903)
-&nbsp;
-![](https://img.shields.io/badge/OPEN_TO-OPPORTUNITIES-00ff41?style=flat-square&labelColor=0d1117)
-
-</div>
-
----
+<br>
 
 ```
-// 01 · TECH_STACK
+[boot] loading /dev/pushkar ...
+[boot] mounting cybersecurity_specialization  .......... OK
+[boot] mounting data_engineering_stack        .......... OK
+[boot] mounting chitkara_university_env       .......... OK  (grad: aug 2027)
+[boot] checking for fabricated_projects.flag  .......... NOT FOUND (by design)
+[boot] all systems nominal. dropping to shell.
 ```
 
 <div align="center">
-
-**[ LANGUAGES ]**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF41)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00FF41)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00FF41)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00FF41)
-
-**[ DATA · ML ]**
-
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00FF41)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00FF41)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=00FF41)
-![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logo=python&logoColor=00FF41)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=00FF41)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=00FF41)
-
-**[ BACKEND · FRONTEND ]**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00FF41)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=00FF41)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=00FF41)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00FF41)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=00FF41)
-
-**[ DATABASE ]**
-
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00FF41)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00FF41)
-![Hibernate](https://img.shields.io/badge/Hibernate-0d1117?style=for-the-badge&logo=hibernate&logoColor=00FF41)
-
-**[ CLOUD · DEVOPS ]**
-
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=00FF41)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00FF41)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00FF41)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=00FF41)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00FF41)
-
-**[ CYBER · NETWORK ]**
-
-![Cisco](https://img.shields.io/badge/CCNA-0d1117?style=for-the-badge&logo=cisco&logoColor=00FF41)
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=00FF41)
-![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
-![Azure](https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=00FF41)
-
+<sub><i>press any key to continue &nbsp;›&nbsp; scrolling automatically in 3... 2... 1...</i></sub>
 </div>
 
----
+<br>
 
-```
-// 02 · PROJECTS
-```
+## `~$ cat about.txt`
 
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  PROJECT_01          ░░░░░░░░░░░░░░░░░░  LENDIQ             │
-│  TYPE    ::  ML · FinTech · Full Stack                       │
-│  STACK   ::  Python · XGBoost · FastAPI · Next.js · Vercel  │
-│  RESULT  ::  99.75% Accuracy · 82.98% Recall · Live Deploy  │
-│  DESC    ::  Personal Finance & Credit Health Intelligence   │
-│              Platform for Indian users. End-to-end ML        │
-│              pipeline with real-time risk prediction API.    │
-│  LINK    ::  lend-iq.vercel.app                              │
-└─────────────────────────────────────────────────────────────┘
+```yaml
+name:        Pushkar Garg
+role:        Final-Year CSE Undergrad, Cybersecurity Specialization
+institution: Chitkara University, Punjab
+cgpa:        8.81 / 10.0
+targeting:   Data Engineer · Data Analyst
+also_eyeing: MS Abroad — Germany / Ireland / Netherlands
+principle:   "no fabricated projects, no fabricated credentials —
+              only honest reframing of real work."
 ```
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  PROJECT_02          ░░░░░░░░░░░░░░░░░░  STUDENT_MGMT_SYS   │
-│  TYPE    ::  Backend · Database                              │
-│  STACK   ::  Spring Boot · MySQL · Hibernate · Spring Sec   │
-│  DESC    ::  Full-featured student management system with    │
-│              role-based access, REST APIs, and CRUD ops.     │
-│              JWT authentication and Spring Security.         │
-└─────────────────────────────────────────────────────────────┘
-```
+I build things that sit at the intersection of **data, security, and slightly-too-much attention to detail** — an ML platform that grades your financial health, a student system with actual role-based auth instead of a fake login page, and this README, which I refused to leave as another badge wall.
+
+<br>
+
+## `~$ ps aux | grep currently_running`
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  PROJECT_03          ░░░░░░░░░░░░░░░░░░  SECURITY_TOOLSET   │
-│  TYPE    ::  Cybersecurity · Python                          │
-│  STACK   ::  Python · Cryptography · Auth Libraries         │
-│  DESC    ::  Python-based cryptography and authentication    │
-│              scripts for security research and learning.     │
-└─────────────────────────────────────────────────────────────┘
+PID   PROCESS                                          STATE
+101   daily_leetcode_reps.py --focus=python_syntax      running
+102   hackerrank_sql_cert.sh --track=basic→advanced      running
+103   campus_drive_watcher.py --targets=DE,DA            listening
+104   highradius_da_internship.pipeline                  queued  →  starts Jul 22
+105   sem7_major_project.plan                            drafting
 ```
 
-</div>
+<details>
+<summary><b>› expand process 105 — Sem 7 Major Project (in planning)</b></summary>
+<br>
 
----
+**AI-Driven Financial Crime & Risk Intelligence Platform** — a four-module system built to satisfy the cybersecurity specialization while leaning into data/ML strengths:
+
+- `fraud_detection/` — XGBoost + Isolation Forest + Autoencoder, explained via SHAP
+- `aml_network/` — entity-relationship graphs with NetworkX / Neo4j
+- `risk_console/` — analyst-facing dashboard for flagged activity
+- `crime_intel/` — pattern surfacing across the above
+
+</details>
+
+<br>
+
+## `~$ ls -la projects/ --sort=impact`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🟢 `lendiq/`
+**Personal Finance & Credit Health Intelligence Platform**
 
 ```
-// 03 · CERTIFICATIONS
+accuracy   ████████████████████░  99.75%
+recall     █████████████████░░░░  82.98%
+status     LIVE · deployed
 ```
 
-```
-◈  CCNA — Introduction to Networks               [Cisco]
-◈  CCNA — Switching, Routing & Wireless           [Cisco]
-◈  CCNA — Enterprise Networking & Automation      [Cisco]
-◈  Python Essentials 1 & 2                        [Cisco]
-◈  Cloud Computing Foundations                    [Coursera/IBM]
-◈  Introduction to DevOps                         [Coursera/IBM]
-◈  Agile & Scrum                                  [Coursera/IBM]
-◈  Networking Fundamentals                        [Akamai]
-◈  Nutanix Hybrid Cloud Fundamentals              [Nutanix]
-```
+`Python` `XGBoost` `FastAPI` `Next.js` `TypeScript` `Tailwind`
 
----
+End-to-end ML pipeline for Indian users — FastAPI backend on Render, Next.js frontend on Vercel, real-time risk prediction API. Built specifically to close a data-science gap other resumes couldn't fake.
 
+**[→ lend-iq.vercel.app](https://lend-iq.vercel.app)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🟢 `student-management-system/`
+**Full-Stack Backend with Real Auth**
 
 ```
-// 04 · GITHUB_STATS
+access_control   ████████████████████  role-based
+security         ████████████████████  Spring Security + JWT
+status           STABLE · original anchor project
 ```
+
+`Spring Boot` `MySQL` `Hibernate` `Spring Security`
+
+REST APIs with actual role-based access control and CRUD operations — the project that started it all, still holding its own on every resume variant.
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>› expand more of /projects</b></summary>
+<br>
+
+**`security-toolset/`** — Python-based cryptography and authentication scripts, built for security research and hands-on learning rather than a graded assignment.
+
+**`pushkarg2903/`** — yes, this repo. Terminal-aesthetic profile README with auto-updating stats, because a static list of skills felt like undercounting the effort.
+
+</details>
+
+<br>
+
+## `~$ grep -r "skills" ./stack --group-by=layer`
+
+<table>
+<tr><td><b>LANG</b></td><td>
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00FF41)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=00FF41)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=mysql&logoColor=00FF41)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=00FF41)
+
+</td></tr>
+<tr><td><b>DATA · ML</b></td><td>
+
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=00FF41)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=00FF41)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=00FF41)
+![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=flat-square&logo=python&logoColor=00FF41)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=00FF41)
+
+</td></tr>
+<tr><td><b>BACKEND / FRONTEND</b></td><td>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00FF41)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=00FF41)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=00FF41)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00FF41)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=00FF41)
+
+</td></tr>
+<tr><td><b>DATA STORE</b></td><td>
+
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=00FF41)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=00FF41)
+![Hibernate](https://img.shields.io/badge/Hibernate-0d1117?style=flat-square&logo=hibernate&logoColor=00FF41)
+
+</td></tr>
+<tr><td><b>CLOUD / DEVOPS</b></td><td>
+
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=00FF41)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00FF41)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=00FF41)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=00FF41)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=00FF41)
+
+</td></tr>
+<tr><td><b>CYBER / NETWORK</b></td><td>
+
+![CCNA](https://img.shields.io/badge/CCNA-0d1117?style=flat-square&logo=cisco&logoColor=00FF41)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=00FF41)
+![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=00FF41)
+![Azure](https://img.shields.io/badge/Azure-0d1117?style=flat-square&logo=microsoftazure&logoColor=00FF41)
+
+</td></tr>
+</table>
+
+<br>
+
+## `~$ unzip achievements.zip`
+
+<table>
+<tr>
+<td width="33%">
+
+**🔓 NETWORKING**
+- CCNA: Intro to Networks
+- CCNA: Switching, Routing & Wireless
+- CCNA: Enterprise Networking & Automation
+- Akamai Networking Fundamentals
+
+</td>
+<td width="33%">
+
+**🔓 CLOUD & DEVOPS**
+- IBM Cloud Computing Foundations
+- IBM Intro to DevOps
+- IBM Agile & Scrum
+- Nutanix Hybrid Cloud Fundamentals
+- Duke Cloud Data Engineering
+
+</td>
+<td width="33%">
+
+**🔓 SECURITY**
+- ISEA/CDAC Cybersecurity Cert
+- Cisco Cybersecurity Essentials
+- MS Security-Compliance-Identity Fundamentals
+- NPTEL Cyber Security Tools & Techniques
+
+</td>
+</tr>
+</table>
+
+<div align="center"><sub>full trilogy · not cherry-picked · every line here maps to a real credential</sub></div>
+
+<br>
+
+## `~$ git log --stat --author="Pushkar Garg"`
 
 <div align="center">
 
@@ -148,11 +229,9 @@
 
 </div>
 
----
+<br>
 
-```
-// 05 · CONNECT
-```
+## `~$ ping pushkarg423@gmail.com`
 
 <div align="center">
 
@@ -160,15 +239,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/pushkarg2903)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:pushkarg423@gmail.com)
 
-</div>
-
-<div align="center">
+<br><br>
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-         Pushkar Garg · pushkarg2903
-         B.Tech CSE · Cybersecurity · 2027
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+> connection secure. 4 packets sent, 4 received, 0% loss.
+> thanks for reading to the end — that's rarer than a clean git log.
 ```
+
+<sub>Pushkar Garg · B.Tech CSE · Cybersecurity Specialization · Chitkara University · Class of 2027</sub>
 
 </div>
