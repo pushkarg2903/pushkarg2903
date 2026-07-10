@@ -1,8 +1,6 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/pushkarg2903/pushkarg2903/main/banner.svg" width="100%" alt="Pushkar Garg" />
+<img src="https://cdn.jsdelivr.net/gh/pushkarg2903/pushkarg2903@main/banner.svg" width="100%" alt="Pushkar Garg" />
 </div>
-
-<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pushkarg2903&color=00ff41&style=flat-square&label=CONNECTIONS)
 ![Status](https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-00ff41?style=flat-square&labelColor=0d1117)
